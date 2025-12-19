@@ -2,7 +2,7 @@
 
 A powerful, open-source bulk email sending tool with real-time progress tracking and beautiful interface.
 
-![SMTP Mailer Screenshot](assets/screenshot.png)
+![SMTP Mailer Screenshot](screenshot.png)
 
 ## ✨ Features
 
