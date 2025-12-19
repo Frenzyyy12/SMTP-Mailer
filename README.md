@@ -15,7 +15,7 @@ A powerful, open-source bulk email sending tool with real-time progress tracking
 
 ## 🚀 Quick Start
 
-1. **Upload** the `index.php` file to your web server
+1. **Upload** the `Mailer.php` file to your web server
 2. **Access** the file via your browser
 3. **Configure** your sender information
 4. **Add** recipient emails
